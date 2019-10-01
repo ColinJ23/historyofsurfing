@@ -1,0 +1,23 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/1c/e2/8b/1ce28b1c7503dac65b90934efc27c3d3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+h1 {
+  text-align: center;
+  color: cyan;
+  font-family: 'Mansalva', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: brown;
+  font-family: 'Mansalva', sans-serif;
+}
+
+p {
+  text-align: center;
+  color:red;
+  font-family: 'vibes', sans-serif;
+}
